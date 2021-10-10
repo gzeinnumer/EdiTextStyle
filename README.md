@@ -1,6 +1,6 @@
 # EdiTextStyle
 
-|<img src="https://github.com/gzeinnumer/ExpandedView/blob/master/preview/example1.jpg" width="200"/>|<img src="https://github.com/gzeinnumer/ExpandedView/blob/master/preview/example2.jpg" width="200"/>|
+|<img src="https://github.com/gzeinnumer/EdiTextStyle/blob/master/preview/example1.jpg" width="200"/>|<img src="https://github.com/gzeinnumer/EdiTextStyle/blob/master/preview/example2.jpg" width="200"/>|
 |--|--|
 
 - background_filled_yellow_radius.xml
