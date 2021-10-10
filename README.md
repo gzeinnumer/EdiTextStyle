@@ -4,7 +4,7 @@
 |--|--|
 
 - background_filled_yellow_radius.xml
-```exml
+```xml
 <?xml version="1.0" encoding="utf-8"?>
 <shape xmlns:android="http://schemas.android.com/apk/res/android"
     android:shape="rectangle">
